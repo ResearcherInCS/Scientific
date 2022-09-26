@@ -6,7 +6,7 @@
 
 推荐电脑端使用ClashX配合ProxyOmega使用，手机端IOS推荐shadowrocket或spectra，安卓推荐trojan。
 
-ClashX的配置URL为：
+ClashX的配置URL为：https://raw.githubusercontent.com/ResearcherInCS/Scientific/main/jp.yml
 
 或直接导入压缩包里的jp.yml即可。
 
