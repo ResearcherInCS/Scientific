@@ -32,7 +32,7 @@ WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查�
 
 ![](example_shadowrocket.jpg)
 
-- 推荐电脑端使用ClashX配合ProxyOmega使用，手机端IOS推荐shadowrocket或spectra，安卓推荐trojan。
+- 推荐电脑端使用ClashX配合ProxyOmega使用，手机端IOS推荐shadowrocket（不支持spectra），shadowrocket需要收费5新币，如果我们关系好可以联系我要apple id免费给你下载，安卓推荐trojan。
 
 ![](proxy_omega.png)
 
