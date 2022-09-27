@@ -32,3 +32,7 @@ WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查�
 ![](example_shadowrocket.jpg)
 
 - 推荐电脑端使用ClashX配合ProxyOmega使用，手机端IOS推荐shadowrocket或spectra，安卓推荐trojan。
+
+- Clash for windows 国内下载地址：https://www.yanlutong.com/pcsoft/8886/
+
+不保证可以一直用，但聪明的大家肯定可以通过其他渠道获得此软件的。
