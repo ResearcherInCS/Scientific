@@ -5,10 +5,6 @@
 - 协议：Trojan
 - 密码：xiaokeai
 
-## 各平台配置信息
-
-WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查看此库`使用教程`的各个文件夹的pdf文件来配置，如有问题可以咨询我。
-
 ## 有效期
 2023年09月27日之前可用，之后需要换域名，我将在此页面更新信息，需要请和我联系。
 
@@ -25,6 +21,9 @@ WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查�
 
 ![](QR.jpg)
 
+## 各平台配置教程
+
+WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查看此库`使用教程`的各个文件夹的pdf文件来配置，如有问题可以咨询我。
 
 ## 注意事项
 - 如配置完无法连接，建议勾选“允许不安全”“不进行https检查”等选项。
