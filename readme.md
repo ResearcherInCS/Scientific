@@ -12,6 +12,8 @@
 ### ClashX的配置URL
   * 境外：https://raw.githubusercontent.com/ResearcherInCS/Scientific/main/jp.yml
   * 国内：http://cmsci.net/personal/scientific/raw/main/jp.yml
+  
+  ![](url_import.png)
 
 ### 直接导入配置文件使用
 或直接导入压缩包里的jp.yml即可。
