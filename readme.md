@@ -9,7 +9,7 @@
 2023年09月27日之前可用，之后需要换域名，我将在此页面更新信息，需要请和我联系。
 
 ## 配置加载流程 
-### ClashX的配置URL
+### Clash的配置URL
   * 境外：https://raw.githubusercontent.com/ResearcherInCS/Scientific/main/jp.yml
   * 国内：http://cmsci.net/personal/scientific/raw/main/jp.yml
   
@@ -36,11 +36,11 @@ WINDOWS/MACOS/LINUX/IOS/IPADOS/ANDROID/浏览器等平台的配置方式请查�
 
 ![](example_shadowrocket.jpg)
 
-- 推荐电脑端使用ClashX配合ProxyOmega使用，手机端IOS推荐shadowrocket（不支持spectra），shadowrocket需要收费5新币，如果我们关系好可以联系我要apple id免费给你下载，安卓推荐Igniter。
+- 推荐电脑端使用Clash配合ProxyOmega使用（或直接clash代理也可以），手机端IOS推荐shadowrocket（不支持spectra），shadowrocket需要收费5新币，如果我们关系好可以联系我要apple id免费给你下载，安卓推荐Igniter。
 
 ![](proxy_omega.png)
 
 
 - Clash for windows 国内下载地址：https://www.yanlutong.com/pcsoft/8886/
 
-不保证可以一直用，但聪明的大家肯定可以通过其他渠道获得此软件的。
+不保证可以一直用，但聪明的大家肯定可以通过其他渠道获得Clash的。
